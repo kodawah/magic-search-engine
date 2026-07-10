@@ -1,0 +1,55 @@
+# Secret Lair "Surprise Slivers" bonus pool -- early snapshot, through September 2022.
+# The Sliver pool grew over the 2022-2023 era; this is the pool as of the
+# July-September 2022 waves (14 slivers). Later products use the full pool
+# (sld-surprise-slivers). Membership from mtgjson per-card release dates.
+# Drop rates estimated from foil price differences within the pool
+# (inverse-price, top chase normalized to 1).
+name: "SLD Surprise Slivers (early, through September 2022)"
+pack:
+  slivers: 1
+sheets:
+  slivers:
+    foil: true
+    any:
+    - rawquery: "e:sld number:657" # Tempered Sliver
+      count: 1
+      chance: 129
+    - rawquery: "e:sld number:646" # Two-Headed Sliver
+      count: 1
+      chance: 83
+    - rawquery: "e:sld number:628" # Winged Sliver
+      count: 1
+      chance: 73
+    - rawquery: "e:sld number:617" # Ward Sliver
+      count: 1
+      chance: 59
+    - rawquery: "e:sld number:647" # Brood Sliver
+      count: 1
+      chance: 33
+    - rawquery: "e:sld number:664" # Hibernation Sliver
+      count: 1
+      chance: 27
+    - rawquery: "e:sld number:660" # Cloudshredder Sliver
+      count: 1
+      chance: 24
+    - rawquery: "e:sld number:649" # Horned Sliver
+      count: 1
+      chance: 23
+    - rawquery: "e:sld number:654" # Predatory Sliver
+      count: 1
+      chance: 22
+    - rawquery: "e:sld number:634" # Syphon Sliver
+      count: 1
+      chance: 11
+    - rawquery: "e:sld number:663" # Harmonic Sliver
+      count: 1
+      chance: 9
+    - rawquery: "e:sld number:661" # Crystalline Sliver
+      count: 1
+      chance: 9
+    - rawquery: "e:sld number:643" # Spiteful Sliver
+      count: 1
+      chance: 8
+    - rawquery: "e:sld number:668" # Sliver Hive
+      count: 1
+      chance: 1
