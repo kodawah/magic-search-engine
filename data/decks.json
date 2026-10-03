@@ -633045,5 +633045,225 @@
       ]
     },
     "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Black",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2013",
+    "set_code": "m13",
+    "release_date": "2012-07-13",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Walking Corpse",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Disentomb",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Essence Drain",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Rise from the Grave",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Bloodthrone Vampire",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Swamp",
+          "count": 5,
+          "set": "M13",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html"
+  },
+  {
+    "name": "Booster Battle Pack: Blue",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2013",
+    "set_code": "m13",
+    "release_date": "2012-07-13",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Welkin Tern",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Archaeomancer",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Hydrosurge",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Merfolk of the Pearl Trident",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Talrand's Invocation",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Island",
+          "count": 5,
+          "set": "M13",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html"
+  },
+  {
+    "name": "Booster Battle Pack: Green",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2013",
+    "set_code": "m13",
+    "release_date": "2012-07-13",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Deadly Recluse",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Ranger's Path",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Spiked Baloth",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Bountiful Harvest",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Duskdale Wurm",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Forest",
+          "count": 5,
+          "set": "M13",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html"
+  },
+  {
+    "name": "Booster Battle Pack: Red",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2013",
+    "set_code": "m13",
+    "release_date": "2012-07-13",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Bladetusk Boar",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Trumpet Blast",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Volcanic Strength",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Krenko's Command",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Arms Dealer",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Mountain",
+          "count": 5,
+          "set": "M13",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html"
+  },
+  {
+    "name": "Booster Battle Pack: White",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2013",
+    "set_code": "m13",
+    "release_date": "2012-07-13",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Attended Knight",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "War Falcon",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Angel's Mercy",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Glorious Charge",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Crusader of Odric",
+          "count": 1,
+          "set": "M13"
+        },
+        {
+          "name": "Plains",
+          "count": 5,
+          "set": "M13",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://mtgadventures.blogspot.com/2012/08/m13-battle-packs.html"
   }
 ]
