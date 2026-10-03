@@ -632605,5 +632605,445 @@
       ]
     },
     "source": "https://mtg.wiki/wiki/Zendikar_Rising/Welcome_booster"
+  },
+  {
+    "name": "Booster Battle Pack: Black A",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Disentomb",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Mind Rot",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Sorin's Thirst",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Zombie Goliath",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Sengir Vampire",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Swamp",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Black B",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Bloodrage Vampire",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Duskhunter Bat",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Taste of Blood",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Tormented Soul",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Vampire Outcasts",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Swamp",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Blue A",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Aether Adept",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Amphin Cutthroat",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Coral Merfolk",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Jace's Erasure",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Belltower Sphinx",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Island",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Blue B",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Cancel",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Chasm Drake",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Frost Breath",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Skywinder Drake",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Azure Mage",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Island",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Green A",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Garruk's Companion",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Gladecover Scout",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Plummet",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Stampeding Rhino",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Overrun",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Forest",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Green B",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Giant Spider",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Greater Basilisk",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Sacred Wolf",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Trollhide",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Lure",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Forest",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Red A",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Chandra's Outrage",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Fiery Hellhound",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Firebreathing",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Goblin Tunneler",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Volcanic Dragon",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Mountain",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: Red B",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Blood Ogre",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Goblin Fireslinger",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Lava Axe",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Shock",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Stormblood Berserker",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Mountain",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: White A",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Armored Warhorse",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Divine Favor",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Pride Guardian",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Siege Mastodon",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Serra Angel",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Plains",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
+  },
+  {
+    "name": "Booster Battle Pack: White B",
+    "type": "Booster Battle Pack Packet",
+    "category": "deck",
+    "set_name": "Magic 2012",
+    "set_code": "m12",
+    "release_date": "2011-07-15",
+    "cards": {
+      "Main Deck": [
+        {
+          "name": "Angel's Mercy",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Griffin Rider",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Griffin Sentinel",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Peregrine Griffin",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Roc Egg",
+          "count": 1,
+          "set": "M12"
+        },
+        {
+          "name": "Plains",
+          "count": 5,
+          "set": "M12",
+          "number": "*"
+        }
+      ]
+    },
+    "source": "https://ertaislament.com/2011/09/18/booster-battle-pack-review-part-1-of-2/"
   }
 ]
